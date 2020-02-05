@@ -19,6 +19,7 @@ Wi-Fi LED controller with following features
 -   SSD1306 I2C OLED display 128x32 or 128x64 (optional);
 -   Additional button (optional);
 -   Dallas temperature sensor for measuring ambient temperature inside of enclosure (optional);
+-   [PCB ORDER](https://www.pcbway.com/project/shareproject/Controller_for_WLED_firmware_in_waterproof_enclosure.html) - Easy and fast way to order quality PCB.
 
 ## Firmware used
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
