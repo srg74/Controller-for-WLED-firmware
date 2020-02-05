@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/v/release/srg74/Controller-for-WLED-firmware)](https://github.com/srg74/Controller-for-WLED-firmware)
+[![](https://img.shields.io/github/v/release/srg74/Controller-for-WLED-firmware)](https://img.shields.io/github/v/release/srg74/Controller-for-WLED-firmware)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/Controller-for-WLED-firmware/master/LICENSE)
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](/resources/FIRMWARE/BIN)
 [![](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
@@ -9,6 +9,7 @@
 Wi-Fi LED controller with following features
 ```
 -   Easy to solder components;
+-   Relay for reducing delay power consuption;
 -   Waterproof enclosure IP67;
 -   Level shifter for relaible signal;
 -   Power selector (e.g 5VDC or 12VDC);
