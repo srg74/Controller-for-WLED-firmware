@@ -1,4 +1,5 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-ESP8266-controller-in-a-waterproof-enclosure/blob/master/LICENSE)
+[![](https://img.shields.io/github/v/release/srg74/Controller-for-WLED-firmware)](https://github.com/srg74/Controller-for-WLED-firmware)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/Controller-for-WLED-firmware/master/LICENSE)
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](/resources/FIRMWARE/BIN)
 [![](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
 [![](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
