@@ -4,4 +4,4 @@
 ## Round PCB for table lamps
 ![PCB](/resources/PCB_round.png)
 ## Scematic for IP67 enclosure variant
-![Schematic](/resources/schematic_v_07.jpg)
+![Schematic](/resources/schematic.jpg)
