@@ -6,8 +6,13 @@
 ## Wi-Fi LED controller based on ESP-07S module with external antenna for WLED firmware.
 ![Controller](resources/controller.jpg)
 ```
-Wi-Fi LED controller with following features
+Controller reference design
 ```
+![Test](resources/PCB_test.jpg)
+```
+PCB test v0.8
+```
+## Wi-Fi LED controller with following features
 -   Easy to solder components;
 -   Relay for reducing delay power consuption;
 -   Waterproof enclosure IP67;
