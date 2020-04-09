@@ -19,7 +19,7 @@ PCB test v0.8
 -   Level shifter for relaible signal;
 -   Power selector (e.g 5VDC or 12VDC);
 -   Signal mode select (e.g. GPIO);
--   Serial interface connector 5V logic levels;
+-   Serial interface connector 3.3V logic levels;
 -   IR receiver (optional);
 -   SSD1306 I2C OLED display 128x32 or 128x64 (optional);
 -   Additional button (optional);
