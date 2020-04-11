@@ -24,6 +24,7 @@ PCB test v0.8
 -   Additional button (optional);
 -   Dallas temperature sensor for measuring ambient temperature inside of enclosure (optional);
 -   [PCB ORDER](https://www.pcbway.com/project/shareproject/Controller_for_WLED_firmware_in_waterproof_enclosure.html) - Easy and fast way to order quality PCB.
+-   [Sign in and save](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - Helping me to save some money for development.
 
 ## Firmware used
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
