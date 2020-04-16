@@ -18,13 +18,13 @@ PCB test v0.8
 -   Waterproof enclosure IP67;
 -   Level shifter for relaible signal;
 -   Power selector (e.g 5VDC or 12VDC);
--   Signal mode select (e.g. GPIO);
 -   Serial interface connector 3.3V logic levels;
 -   IR receiver (optional);
 -   SSD1306 I2C OLED display 128x32 or 128x64 (optional);
 -   Additional button (optional);
 -   Dallas temperature sensor for measuring ambient temperature inside of enclosure (optional);
 -   [PCB ORDER](https://www.pcbway.com/project/shareproject/Controller_for_WLED_firmware_in_waterproof_enclosure.html) - Easy and fast way to order quality PCB.
+-   [Sign in and save](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - Helping me to save some money for development.
 
 ## Firmware used
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
