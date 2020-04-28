@@ -31,7 +31,7 @@ PCB test v0.8
 -   [Usermod files](https://github.com/Aircoookie/WLED/tree/master/usermods/Enclosure_with_OLED_temp_ESP07) - Folder with required changes to usermod.cpp in WLED repository
 -   [Controller firmware](https://github.com/srg74/Controller-for-WLED-firmware/tree/master/resources/FIRMWARE) - Custom build file, ready for upload. Latest Build 2004061.
 ## Materials used
--   [Enclosure](https://www.masterelectronics.com/bud-industries/pn1321mb-43418287.html?utm_source=eciaauth&utm_medium=inventoryrefferal&utm_campaign=eciaauth&utm_term=PN-1321-MB) - Bud Industries PN-1321-MB
+-   [Enclosure](https://www.hawkusa.com/manufacturers/bud/enclosures/pn-1321-cmb) - Bud Industries PN-1321-CMB
 -   [Connectors](https://www.amazon.com/gp/product/B07DGVBNB7/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) - SP13-3pin and SP13-2pin
 -   [ESP-07S module](https://www.amazon.com/gp/product/B07KRZWZQV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1) - ESP8266 based ESP-07S module with external antenna
 -   [Wi-Fi antenna](https://www.amazon.com/gp/product/B00ZBJNO9O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - 2.4G WiFi Antenna with SMA Cable 3DBI Gain
