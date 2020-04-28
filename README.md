@@ -32,7 +32,8 @@ PCB test v0.8
 -   [Controller firmware](https://github.com/srg74/Controller-for-WLED-firmware/tree/master/resources/FIRMWARE) - Custom build file, ready for upload. Latest Build 2004061.
 ## Materials used
 -   [Enclosure](https://www.hawkusa.com/manufacturers/bud/enclosures/pn-1321-cmb) - Bud Industries PN-1321-CMB
--   [Connectors](https://www.amazon.com/gp/product/B07DGVBNB7/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) - SP13-3pin and SP13-2pin
+-   [Connection](https://www.amazon.com/dp/B07Q6XK8KM/ref=cm_sw_em_r_mt_dp_U_P6gQEb3590DWJ) - Waterproof IP65 2pin and 3pin connection cables
+-   [Box entry](https://www.amazon.com/dp/B06Y5HGYK2/ref=cm_sw_em_r_mt_dp_U_n9gQEb0NFN1HF) - Cable gland PG7
 -   [ESP-07S module](https://www.amazon.com/gp/product/B07KRZWZQV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1) - ESP8266 based ESP-07S module with external antenna
 -   [Wi-Fi antenna](https://www.amazon.com/gp/product/B00ZBJNO9O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - 2.4G WiFi Antenna with SMA Cable 3DBI Gain
 -   [Push button](https://www.newark.com/philmore/30-12638/switch-operation-momentary-spring/dp/43W7758) - Pushbutton Switch with LED. Manufacturer #30-12638
