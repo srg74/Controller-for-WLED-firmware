@@ -3,6 +3,9 @@
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](/resources/FIRMWARE/BIN)
 [![](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
 [![](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
+
+If you happy with my project, you can [![](https://img.shields.io/badge/send%20me%20a%20small%20gift-paypal-blue.svg?style=flat-square)](https://paypal.me/srg7477)
+
 ## Wi-Fi LED controller based on ESP-07S module with external antenna for WLED firmware.
 ![Controller](resources/controller.jpg)
 ```
