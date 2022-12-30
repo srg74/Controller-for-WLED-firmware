@@ -37,7 +37,7 @@ PCB test v0.8
 -   [Enclosure](https://www.hawkusa.com/manufacturers/bud/enclosures/pn-1321-cmb) - Bud Industries PN-1321-CMB
 -   [Connection](https://www.amazon.com/dp/B07Q6XK8KM/ref=cm_sw_em_r_mt_dp_U_P6gQEb3590DWJ) - Waterproof IP65 2pin and 3pin connection cables
 -   [Box entry](https://www.amazon.com/dp/B06Y5HGYK2/ref=cm_sw_em_r_mt_dp_U_n9gQEb0NFN1HF) - Cable gland PG7
--   [ESP-07S module](https://www.amazon.com/gp/product/B07KRZWZQV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1) - ESP8266 based ESP-07S module with external antenna
+-   [ESP-07S module](https://www.amazon.com/JESSINIE-ESP-07S-Industrial-Wireless-Internet/dp/B0BLGC7QVZ/ref=sr_1_8?crid=7EX1GREDP9QT&keywords=esp-07s&qid=1672440801&sprefix=esp-07s%2Caps%2C84&sr=8-8) - ESP8266 based ESP-07S module with external antenna connector
 -   [Wi-Fi antenna](https://www.amazon.com/gp/product/B00ZBJNO9O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - 2.4G WiFi Antenna with SMA Cable 3DBI Gain
 -   [Push button](https://www.newark.com/philmore/30-12638/switch-operation-momentary-spring/dp/43W7758) - Pushbutton Switch with LED. Manufacturer #30-12638
 -   [Custom PCB](https://www.pcbway.com) - Custom PCB ordered from PCBway. 10pcs for $5!
